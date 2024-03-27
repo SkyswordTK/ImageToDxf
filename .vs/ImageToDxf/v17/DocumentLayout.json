@@ -1,0 +1,187 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dev\\source\\repos\\ImageToDxf\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1647B14E-F698-47A2-94FB-FF8E3563D811}|ImageToDxf.csproj|c:\\users\\dev\\source\\repos\\imagetodxf\\imagetodxf.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1647B14E-F698-47A2-94FB-FF8E3563D811}|ImageToDxf.csproj|solutionrelative:imagetodxf.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1647B14E-F698-47A2-94FB-FF8E3563D811}|ImageToDxf.csproj|c:\\users\\dev\\source\\repos\\imagetodxf\\data\\hatchcollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1647B14E-F698-47A2-94FB-FF8E3563D811}|ImageToDxf.csproj|solutionrelative:data\\hatchcollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1647B14E-F698-47A2-94FB-FF8E3563D811}|ImageToDxf.csproj|c:\\users\\dev\\source\\repos\\imagetodxf\\data\\pixelcornerpolygon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1647B14E-F698-47A2-94FB-FF8E3563D811}|ImageToDxf.csproj|solutionrelative:data\\pixelcornerpolygon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1647B14E-F698-47A2-94FB-FF8E3563D811}|ImageToDxf.csproj|c:\\users\\dev\\source\\repos\\imagetodxf\\data\\pixelweights.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1647B14E-F698-47A2-94FB-FF8E3563D811}|ImageToDxf.csproj|solutionrelative:data\\pixelweights.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1647B14E-F698-47A2-94FB-FF8E3563D811}|ImageToDxf.csproj|c:\\users\\dev\\source\\repos\\imagetodxf\\data\\polygon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1647B14E-F698-47A2-94FB-FF8E3563D811}|ImageToDxf.csproj|solutionrelative:data\\polygon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1647B14E-F698-47A2-94FB-FF8E3563D811}|ImageToDxf.csproj|c:\\users\\dev\\source\\repos\\imagetodxf\\data\\bitmapprocessingdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1647B14E-F698-47A2-94FB-FF8E3563D811}|ImageToDxf.csproj|solutionrelative:data\\bitmapprocessingdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1647B14E-F698-47A2-94FB-FF8E3563D811}|ImageToDxf.csproj|c:\\users\\dev\\source\\repos\\imagetodxf\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1647B14E-F698-47A2-94FB-FF8E3563D811}|ImageToDxf.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1647B14E-F698-47A2-94FB-FF8E3563D811}|ImageToDxf.csproj|c:\\users\\dev\\source\\repos\\imagetodxf\\data\\hatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1647B14E-F698-47A2-94FB-FF8E3563D811}|ImageToDxf.csproj|solutionrelative:data\\hatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1647B14E-F698-47A2-94FB-FF8E3563D811}|ImageToDxf.csproj|c:\\users\\dev\\source\\repos\\imagetodxf\\bitmapprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1647B14E-F698-47A2-94FB-FF8E3563D811}|ImageToDxf.csproj|solutionrelative:bitmapprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1647B14E-F698-47A2-94FB-FF8E3563D811}|ImageToDxf.csproj|c:\\users\\dev\\source\\repos\\imagetodxf\\output\\dxfwriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1647B14E-F698-47A2-94FB-FF8E3563D811}|ImageToDxf.csproj|solutionrelative:output\\dxfwriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ImageToDxf",
+              "DocumentMoniker": "C:\\Users\\Dev\\source\\repos\\ImageToDxf\\ImageToDxf.csproj",
+              "RelativeDocumentMoniker": "ImageToDxf.csproj",
+              "ToolTip": "C:\\Users\\Dev\\source\\repos\\ImageToDxf\\ImageToDxf.csproj",
+              "RelativeToolTip": "ImageToDxf.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-27T08:11:35.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HatchCollection.cs",
+              "DocumentMoniker": "C:\\Users\\Dev\\source\\repos\\ImageToDxf\\Data\\HatchCollection.cs",
+              "RelativeDocumentMoniker": "Data\\HatchCollection.cs",
+              "ToolTip": "C:\\Users\\Dev\\source\\repos\\ImageToDxf\\Data\\HatchCollection.cs",
+              "RelativeToolTip": "Data\\HatchCollection.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAtwDgAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T07:23:06.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BitmapProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\Dev\\source\\repos\\ImageToDxf\\BitmapProcessor.cs",
+              "RelativeDocumentMoniker": "BitmapProcessor.cs",
+              "ToolTip": "C:\\Users\\Dev\\source\\repos\\ImageToDxf\\BitmapProcessor.cs",
+              "RelativeToolTip": "BitmapProcessor.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAcwCUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T07:23:06.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Hatch.cs",
+              "DocumentMoniker": "C:\\Users\\Dev\\source\\repos\\ImageToDxf\\Data\\Hatch.cs",
+              "RelativeDocumentMoniker": "Data\\Hatch.cs",
+              "ToolTip": "C:\\Users\\Dev\\source\\repos\\ImageToDxf\\Data\\Hatch.cs",
+              "RelativeToolTip": "Data\\Hatch.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAADwv1YAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T07:23:06.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PixelWeights.cs",
+              "DocumentMoniker": "C:\\Users\\Dev\\source\\repos\\ImageToDxf\\Data\\PixelWeights.cs",
+              "RelativeDocumentMoniker": "Data\\PixelWeights.cs",
+              "ToolTip": "C:\\Users\\Dev\\source\\repos\\ImageToDxf\\Data\\PixelWeights.cs",
+              "RelativeToolTip": "Data\\PixelWeights.cs",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAawHwAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T07:23:06.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Polygon.cs",
+              "DocumentMoniker": "C:\\Users\\Dev\\source\\repos\\ImageToDxf\\Data\\Polygon.cs",
+              "RelativeDocumentMoniker": "Data\\Polygon.cs",
+              "ToolTip": "C:\\Users\\Dev\\source\\repos\\ImageToDxf\\Data\\Polygon.cs",
+              "RelativeToolTip": "Data\\Polygon.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAEwD0AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T07:23:06.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DxfWriter.cs",
+              "DocumentMoniker": "C:\\Users\\Dev\\source\\repos\\ImageToDxf\\Output\\DxfWriter.cs",
+              "RelativeDocumentMoniker": "Output\\DxfWriter.cs",
+              "ToolTip": "C:\\Users\\Dev\\source\\repos\\ImageToDxf\\Output\\DxfWriter.cs",
+              "RelativeToolTip": "Output\\DxfWriter.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAhwC0AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T07:23:06.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PixelCornerPolygon.cs",
+              "DocumentMoniker": "C:\\Users\\Dev\\source\\repos\\ImageToDxf\\Data\\PixelCornerPolygon.cs",
+              "RelativeDocumentMoniker": "Data\\PixelCornerPolygon.cs",
+              "ToolTip": "C:\\Users\\Dev\\source\\repos\\ImageToDxf\\Data\\PixelCornerPolygon.cs",
+              "RelativeToolTip": "Data\\PixelCornerPolygon.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAUwB8AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T07:23:06.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BitmapProcessingData.cs",
+              "DocumentMoniker": "C:\\Users\\Dev\\source\\repos\\ImageToDxf\\Data\\BitmapProcessingData.cs",
+              "RelativeDocumentMoniker": "Data\\BitmapProcessingData.cs",
+              "ToolTip": "C:\\Users\\Dev\\source\\repos\\ImageToDxf\\Data\\BitmapProcessingData.cs",
+              "RelativeToolTip": "Data\\BitmapProcessingData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T07:23:06.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dev\\source\\repos\\ImageToDxf\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Dev\\source\\repos\\ImageToDxf\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T07:23:06.962Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
